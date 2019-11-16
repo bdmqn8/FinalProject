@@ -14,6 +14,8 @@
 
 JPEG/JPG
 
+*  A JPEG (Joint Photographic Experts Group) is a standard image format for containing lossy and compressed image data.
+
 * The source code to add a JPEG/JPG image would look like this:
 
           <img src="pug.jpeg" alt="A pug sitting down">
@@ -25,6 +27,7 @@ JPEG/JPG
 * The MIME Type for a JPEG/JPG image is: image/jpeg
 
 GIF
+* An animated GIF (Graphics Interchange Format) is essentially a digital flipbook of images cycling through a stack of images on a loop.
 
 * The source code to add a GIF image would look like this:
 
@@ -38,10 +41,14 @@ GIF
 
 PNG
 
+* A PNG (Portable Network Graphic) is an image type that's commonly used in web design to provide a transparent background and/or a semi-transparent image.
+
 * The source code to add a PNG image would look like this:
 
-          <img src="pug.png" alt="Pug">
+          <img src="torch.png" alt="Statue of Liberty torch">
           
 * The output would look like this:
+
+<img src="torch.png" alt="Statue of Liberty torch">
 
 * The MIME Type for a PNG image is: image/png
