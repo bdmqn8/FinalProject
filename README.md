@@ -18,13 +18,21 @@ JPEG/JPG
 
           <img src="pug.jpeg" alt="A pug sitting down">
 
+* The output would look like this:
+          
+<img src="pug.jpeg" alt ="A pug sitting down">
+
 * The MIME Type for a JPEG/JPG image is: image/jpeg
 
 GIF
 
 * The source code to add a GIF image would look like this:
 
-          <img src="pug.gif" alt="Pug">
+          <img src="johnmayer.gif" alt="John Mayer pulling down his sunglasses">
+
+* The output would look like this:   
+
+<img src="johnmayer.gif" alt="John Mayer pulling down his sunglasses">
 
 * The MIME Type for a GIF image is: image/gif
 
@@ -33,5 +41,7 @@ PNG
 * The source code to add a PNG image would look like this:
 
           <img src="pug.png" alt="Pug">
+          
+* The output would look like this:
 
 * The MIME Type for a PNG image is: image/png
