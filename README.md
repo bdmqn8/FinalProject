@@ -1,5 +1,4 @@
-# bdmqn8
-## Adding Images to a Web Page
+# Adding Images to a Web Page
 ### Author: Bailey Murphy
 ### Purpose: To learn how to add various image types within a web page using HTML
 ### Target Audience: Anyone wanting to improve the design and appearance of their web page
