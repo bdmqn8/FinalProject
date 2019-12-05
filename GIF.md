@@ -1,5 +1,7 @@
 # GIF
 
+[Back to Home](README.md)
+
 * An animated GIF (Graphics Interchange Format) is essentially a digital flipbook of images cycling through a stack of images on a loop.
 
 * The source code to add a GIF image would look like this:
