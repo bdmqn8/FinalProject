@@ -1,5 +1,7 @@
 # JPEG/JPG
 
+[Back to Home](README.md)
+
 *  A JPEG (Joint Photographic Experts Group) is a standard image format for containing lossy and compressed image data.
 
 * The source code to add a JPEG/JPG image would look like this:
