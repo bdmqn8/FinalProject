@@ -11,19 +11,6 @@
 
 * There are three common file types of images implemented in web pages: [JPEG/JPG](JPG.md), GIF, and PNG files.
 
-GIF
-* An animated GIF (Graphics Interchange Format) is essentially a digital flipbook of images cycling through a stack of images on a loop.
-
-* The source code to add a GIF image would look like this:
-
-          <img src="johnmayer.gif" alt="John Mayer pulling down his sunglasses">
-
-* The output would look like this:   
-
-<img src="johnmayer.gif" alt="John Mayer pulling down his sunglasses">
-
-* The MIME Type for a GIF image is: image/gif
-
 PNG
 
 * A PNG (Portable Network Graphic) is an image type that's commonly used in web design to provide a transparent background and/or a semi-transparent image.
