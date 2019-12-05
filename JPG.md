@@ -1,4 +1,4 @@
-JPEG/JPG
+# JPEG/JPG
 
 *  A JPEG (Joint Photographic Experts Group) is a standard image format for containing lossy and compressed image data.
 
