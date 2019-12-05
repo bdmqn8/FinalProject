@@ -10,7 +10,7 @@
 
 * The __alt__ attribute provides alternate text for an image if the user cannot view the image. The value of the alt attribute should describe the image.
 
-* There are three common file types of images implemented in web pages: JPEG/JPG, GIF, and PNG files.
+* There are three common file types of images implemented in web pages: JPEG/JPG (..bdmqn8/JPG), GIF, and PNG files.
 
 JPEG/JPG
 
